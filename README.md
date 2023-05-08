@@ -20,6 +20,5 @@
  <a href="https://www.twitter.com/viny88" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>
  <a href = "mailto:viniciusyamamoto88@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/ViniciusYamamoto/ViniciusYamamoto/blob/output/github-contribution-grid-snake.svg)
 
 </div>
